@@ -1,9 +1,5 @@
 {
   "name": "project-configs",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/nolanrigo/project-configs.git"
-  },
   "author": "Nolan Rigo <nolan@rigo.dev>",
   "license": "WTFPL",
   "devDependencies": {
