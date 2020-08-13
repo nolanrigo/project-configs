@@ -1,0 +1,13 @@
+{
+  "name": "project-configs",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nolanrigo/project-configs.git"
+  },
+  "author": "Nolan Rigo <nolan@rigo.dev>",
+  "license": "WTFPL",
+  "devDependencies": {
+    "lerna": "^3.22.1"
+  }
+}
