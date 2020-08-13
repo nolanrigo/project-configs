@@ -1,8 +1,11 @@
 {
   "name": "project-configs",
-  "author": "Nolan Rigo <nolan@rigo.dev>",
   "license": "WTFPL",
+  "author": "Nolan Rigo <nolan@rigo.dev>",
   "devDependencies": {
-    "lerna": "^3.22.1"
-  }
+    "@nolanrigo/prettier-config": "^3.0.1",
+    "lerna": "^3.22.1",
+    "prettier": "^2.0.5"
+  },
+  "prettier": "@nolanrigo/prettier-config"
 }
