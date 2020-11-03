@@ -4,7 +4,7 @@ stdenv.mkDerivation {
   name = "env";
   buildInputs = [
     gnumake
-    nodejs-12_x
+    nodejs-14_x
   ];
   shellHooks = ''
   '';
