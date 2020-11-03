@@ -13,7 +13,7 @@
   "dependencies": {
     "prettier-plugin-organize-imports": "^1.1.1",
     "prettier-plugin-package": "^1.2.0",
-    "typescript": "^3.9.6"
+    "typescript": "^4.0.5"
   },
   "devDependencies": {
     "prettier": "^2.0.5"
