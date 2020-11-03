@@ -6,6 +6,6 @@
     "url": "git+https://github.com/nolanrigo/project-configs.git"
   },
   "peerDependencies": {
-    "typescript": "3.x"
+    "typescript": "4.x"
   }
 }
