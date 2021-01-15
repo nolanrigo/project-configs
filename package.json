@@ -3,9 +3,9 @@
   "license": "WTFPL",
   "author": "Nolan Rigo <nolan@rigo.dev>",
   "devDependencies": {
-    "@nolanrigo/prettier-config": "^3.0.2",
+    "@nolanrigo/prettier-config": "^3.0.4",
     "lerna": "^3.22.1",
-    "prettier": "^2.1.2"
+    "prettier": "^2.2.1"
   },
   "prettier": "@nolanrigo/prettier-config"
 }
